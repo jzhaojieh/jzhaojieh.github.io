@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2018: Application Developer
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
