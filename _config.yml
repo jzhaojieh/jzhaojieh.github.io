@@ -82,10 +82,10 @@ author:
   name             : "Joshua Huang"
   avatar           : "profile.png"
   bio              : "Student technologist at Carnegie Mellon University"
-  location         : "Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "jzh1@andrew.cmu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/joshua-h123/"
   orcid            : 
   pinterest        :
   soundcloud       :
