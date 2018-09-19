@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/joshua-h123/"
+  linkedin         : "joshua-h123"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -234,9 +234,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: cv
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
